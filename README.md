@@ -50,5 +50,4 @@ To get started with this repository, you can either clone the repository or down
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/srijan1110/dsa.git
-
+https://github.com/srijan1110/Data-Structures-and-Algorithms.git
