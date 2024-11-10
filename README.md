@@ -8,7 +8,6 @@ Welcome to the **Data Structures and Algorithms (DSA)** repository! This reposit
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
 - [Getting Started](#getting-started)
-- [How to Use](#how-to-use)
 
 ## Introduction
 
