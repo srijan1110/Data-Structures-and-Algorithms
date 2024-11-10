@@ -12,7 +12,7 @@ Welcome to the **Data Structures and Algorithms (DSA)** repository! This reposit
 
 ## Introduction
 
-This repository contains implementations of common **data structures** and **algorithms** in multiple programming languages such as Python, C++, and Java. Each algorithm and data structure is accompanied by explanations and examples to help you understand how they work and where they can be used.
+This repository contains implementations of common **data structures** and **algorithms** in multiple programming languages such as Python,C, C++, and Java. Each algorithm and data structure is accompanied by explanations and examples to help you understand how they work and where they can be used.
 
 ## Data Structures
 
