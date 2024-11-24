@@ -45,6 +45,6 @@ void inorder(Node* root) {
 int main() {
     Node* root = NULL;
     for (int key : {30, 20, 40, 10, 25}) root = insert(root, key);
-    inorder(root); // Output: 10 20 25 30 40
+    inorder(root); 
     return 0;
 }
